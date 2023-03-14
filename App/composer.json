@@ -1,0 +1,15 @@
+{
+    "name": "d.panfilov/app",
+    "description": "no",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "Src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "8.1"
+    }
+}
